@@ -1,7 +1,7 @@
 import google.generativeai as genai
 import gradio as gr
 
-GOOGLE_API_KEY = 'AIzaSyD5AVztAAquov4LbC-RzH2PEhf23FD4xqM'
+GOOGLE_API_KEY = 'YOUR_API_KEY'
 # Configure api_key
 genai.configure(api_key=GOOGLE_API_KEY)
 
